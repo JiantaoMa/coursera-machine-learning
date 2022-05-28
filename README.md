@@ -1,2 +1,1 @@
-# coursera-machine-learning
-assignments using Turicreate
+assignments included using Turicreate
