@@ -1,1 +1,1 @@
-assignments included using Turicreate
+assignments finished using Turicreate
